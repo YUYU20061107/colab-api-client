@@ -14,6 +14,6 @@ Colab API Client lets its owner programmatically manage their own Google Colab r
 
 This application is used by one person only — its owner — with their own Google account. It is not distributed to, or used by, any other users, and it only ever accesses the owner's own Colab data.
 
-##	Privacy
+## Privacy
 
 See the [Privacy Policy](PRIVACY.md) for how data accessed through Google APIs is handled.
