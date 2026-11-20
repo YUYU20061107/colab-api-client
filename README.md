@@ -1,19 +1,19 @@
 # Colab API Client
 
-A peronal, ingle-uer client application for the [Google Colab API](http://developer.google.com/colab/api) (`colaboratory.googleapi.com`).
+A personal, single-user client application for the [Google Colab API](https://developers.google.com/colab/api) (`colaboratory.googleapis.com`).
 
-## What it doe
+## What it does
 
-Colab API Client let it owner programmatically manage their own Google Colab reource through the official Colab API:
+Colab API Client lets its owner programmatically manage their own Google Colab resources through the official Colab API:
 
-- Lit available Colab runtime type
-- Create, lit, and delete the owner' own Colab runtime
-- Check the owner' Colab ubcription tatu
+- List available Colab runtime types
+- Create, list, and delete the owner's own Colab runtimes
+- Check the owner's Colab subscription status
 
-## Who ue it
+## Who uses it
 
-Thi application i ued by one peron only — it owner — with their own Google account. It i not ditributed to, or ued by, any other uer, and it only ever accee the owner' own Colab data.
+This application is used by one person only — its owner — with their own Google account. It is not distributed to, or used by, any other users, and it only ever accesses the owner's own Colab data.
 
 ##	Privacy
 
-See the [Privacy Policy](PRIVACY.md) for how data acceed through Google API i handled.
+See the [Privacy Policy](PRIVACY.md) for how data accessed through Google APIs is handled.
